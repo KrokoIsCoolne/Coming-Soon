@@ -1,0 +1,23 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/realisticulities/files",
+	"promos": {
+		"1.7.10-latest": "1.0",
+		"1.7.10-recommended": "1.0",
+		"1.12-latest": "2.0",
+		"1.12-recommended": "2.0",
+		"1.14.4-latest": "3.1",
+		"1.14.4-recommended": "3.1",
+		"latest": "3.1",
+		"recommended": "3.1"
+	},
+	"1.7.10": {
+		"1.0": "- Added Footprints"
+	},
+	"1.12": {
+		"2.0": "- When you Sneak then you dosnt make Footprints.\n- Added new Feature: You cant trample Farmland when you havent Boots equiped."
+	},
+	"1.14": {
+		"3.0": "- Removed Footprints :C.\n- Added Dirt2Path and Increased Bush Damage when you have Armor equiped",
+		"3.1": "- Added a Config."
+	}
+}
